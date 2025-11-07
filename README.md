@@ -64,6 +64,9 @@ txtSumTool/
 ├── sample_texts.py      # Predefined example articles
 └── requirements.txt     # Python dependencies
 
+*OUTPUT*:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9d1bc817-da73-460b-8121-613510f6e59b" />
+
 
 *Developed by:
 MOHAMMED JAWAD
