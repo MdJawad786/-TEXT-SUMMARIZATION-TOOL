@@ -1,0 +1,18 @@
+streamlit
+nltk
+st.set_page_config(page_title="📝 Text Summarization Tool", layout="wide")
+st.markdown("""
+    <style>
+    @keyframes gradientAnimation {
+        0% {background-position: 0% 50%;}
+        50% {background-position: 100% 50%;}
+        100% {background-position: 0% 50%;}
+    }
+
+    .stApp {
+        background: linear-gradient(-45deg, #ffecd2, #fcb69f, #a1c4fd, #c2e9fb);
+        background-size: 400% 400%;
+        animation: gradientAnimation 12s ease infinite;
+    }
+    </style>
+""", unsafe_allow_html=True)
